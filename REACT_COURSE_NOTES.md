@@ -16,9 +16,15 @@ This project also has been used by me to  `learn` and  `train` ReactJS.
 
 
 ## `CLASS 1` - INTRODUCTION TO REACT
-
-  Overview of the project wil be created in the course
-
+  - Overview of the project wil be created in the course
+  - Technical Requirements
+  - Notion and Concepts aout React
+  - ReactJS is library for web interface creation
+  - It is used to build SPAs (Single Page Application)
+  - Component Based
+  - Use JSX to render HTML
+  - Apply virtual DOM to make/execute changes from DOM
+  - We can add it to a project or create one with React
 
 ## `CLASS 2` - INSTALL REACT
 
