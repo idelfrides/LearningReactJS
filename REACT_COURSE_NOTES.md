@@ -1,13 +1,18 @@
-# React JS Library for front-end Development. 
+# ReactJS 
+#### A Library for front-end Development. 
 #### React JS Course
+
 
 **Started Date:** 2023-07-20
 
-**Finished Date:** 2023-08-26
+**End Date:** 2023-08-04
 
 ## About
-This project is the conceptual parte of React Course, ReactJS is Library for front-end Development. 
-I dedicated my life during one month and six days learninhg and praticing React JS and I hundestand this is only the begining of my journey to solidify that hard skill .
+This project is the conceptual part of React Course I made by @matheusbattist.
+ReactJS is Library for front-end Development. 
+I dedicated my life during one month and six days ( including the second part of course ) learninhg and practicing ReactJS and I hundestand this is only the begining of my journey to solidify that hard skill .
+
+This project also has been used by me to  `learn` and  `train` ReactJS. 
 
 
 ## `CLASS 1` - INTRODUCTION TO REACT
@@ -15,49 +20,87 @@ I dedicated my life during one month and six days learninhg and praticing React 
   Overview of the project wil be created in the course
 
 
-## `CLASS 2` - INSTALLING REACT
+## `CLASS 2` - INSTALL REACT
 ---
   Content coming soon
 
-### STEPS TO CREATE A REACTJS APP
+#### STEPS TO CREATE A REACTJS APP
 
-### 1 - INSTALL `npm` and `react`
+##### 1 - INSTALL `npm` and `react`
 
 [React Dev](https://react.dev/)
 
-### 2 - CREATE AN REACT APP USING `create-react-app` tool
+##### 2 - CREATE AN REACT APP USING `create-react-app` tool
 
 [Create React App](https://create-react-app.dev)
 
-***COMMAND:** `npx create-react-app` [APP_NAME]
+**COMMAND:** `npx create-react-app` [APP_NAME]
     
-### 3 - AFTER APP HAS SUCCESSFULY CREATED
-
-#### npm start
-    Starts the development server.
-
-#### npm run build
-    Bundles the app into static files for production.
-
-#### npm test
-    Starts the test runner.
-
-#### npm run eject
-    Removes this tool and copies build dependencies, configuration files
-    and scripts into the app directory. If you do this, you can’t go back!
-
-We suggest that you begin by typing:
-
-  cd costs
-  **npm start**
-
-**Happy hacking!**
+##### 3 - AFTER APP HAS SUCCESSFULY CREATED
+  Unce React App has been successfuly creted, folow the `Steps` in file 
+  [README.md](https://github.com/idelfrides/LearningReactJS/blob/main/README.md)
+  
 
 ## `CLASS 3` - UNDERSTANDING JSX FILES  
 ---
   Content coming soon
 
-### 5 - INSTALL npm and react
+## `CLASS 4` - UNDERSTANDING JSX FILES  
+---
+  Content coming soon
+
+## `CLASS 5` - UNDERSTANDING JSX FILES  
+---
+  Content coming soon
+
+## `CLASS 6` - UNDERSTANDING JSX FILES  
+---
+  Content coming soon
+
+## `CLASS 7` - UNDERSTANDING JSX FILES  
+---
+  Content coming soon
+
+## `CLASS 8` - UNDERSTANDING JSX FILES  
+---
+  Content coming soon
+
+## `CLASS 9` - UNDERSTANDING JSX FILES  
+---
+  Content coming soon
+
+## `CLASS 10` - UNDERSTANDING JSX FILES  
+---
+  Content coming soon
+
+## `CLASS 11` - UNDERSTANDING JSX FILES  
+---
+  Content coming soon
+
+## `CLASS 12` - UNDERSTANDING JSX FILES  
+---
+  Content coming soon
+
+## `CLASS 13` - UNDERSTANDING JSX FILES  
+---
+  Content coming soon
+
+
+## `CLASS 14` - UNDERSTANDING JSX FILES  
+---
+  Content coming soon
+
+
+## `CLASS 15` - UNDERSTANDING JSX FILES  
+---
+  Content coming soon
+
+## `CLASS 16` - REACT ICONS
+---
+  Content coming soon
+
+[Access React Icons website](https://react-icons.github.io/react-icons/)
+
 
 ## IMPORTANT LINKS
 ---
@@ -65,8 +108,3 @@ We suggest that you begin by typing:
 
 - [Install Node.js on Windows Subsystem for Linux (WSL2)](https://learn.microsoft.com/en-us/windows/dev-environment/javascript/nodejs-on-wsl)
 
-## `CLASS 16` - REACT ICONS
----
-  Content coming soon
-
-[Access React Icons website](https://react-icons.github.io/react-icons/)
