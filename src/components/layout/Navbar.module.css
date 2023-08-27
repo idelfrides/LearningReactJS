@@ -1,0 +1,14 @@
+.list {
+    display: flex;
+    list-style: none;
+    padding: 30px;
+    background-color: yellow;
+}
+
+.item {
+    color: #000;
+    /* background-color: white; */
+    margin-right: 1em;
+    font-size: larger;
+    text-decoration: none;
+}
