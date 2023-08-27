@@ -8,6 +8,7 @@ body {
   background-color: blueviolet;
   font-size: 1.3em;
   padding: 300px auto;
+  align-items: center;
 }
 
 code {
