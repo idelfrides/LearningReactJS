@@ -5,16 +5,16 @@
 
 **Finished Date:** 2023-08-26
 
-### About
+## About
 This project is the conceptual parte of React Course, ReactJS is Library for front-end Development. 
 I dedicated my life during one month and six days learninhg and praticing React JS and I hundestand this is only the begining of my journey to solidify that hard skill .
 
 
-### CLASS 1 - INTRODUCTION TO REACT
+## `CLASS 1` - INTRODUCTION TO REACT
   Overview of the project wil be created in the course
 
 
-### CLASS 2 - INSTALLING REACT
+## `CLASS 2` - INSTALLING REACT
 
 ### STEPS TO CREATE A REACTJS APP
 
@@ -51,20 +51,22 @@ We suggest that you begin by typing:
 **Happy hacking!**
 
 
-[Fix import Switch error](https://kinsta.com/knowledgebase/attempted-import-error-switch-is-not-exported-from-react-router-dom/)
-----------------------------------------------------------
+-------------------------------------------------------------
 
-# CLASS 3 - UNDERSTANDING JSX FILES
-    
+## `CLASS 3` - UNDERSTANDING JSX FILES  
+---
 
 ### 5 - INSTALL npm and react
 
-
 ## IMPORTANT LINKS
+---
 
-[Install Node.js on Windows Subsystem for Linux (WSL2)](https://learn.microsoft.com/en-us/windows/dev-environment/javascript/nodejs-on-wsl)
+- [Fix import Switch error](https://kinsta.com/knowledgebase/attempted-import-error-switch-is-not-exported-from-react-router-dom/)
+
+- [Install Node.js on Windows Subsystem for Linux (WSL2)](https://learn.microsoft.com/en-us/windows/dev-environment/javascript/nodejs-on-wsl)
 
 
-# CLASS 16 - REACT ICONS
+## `CLASS 16` - REACT ICONS
+---
 
 [Access React Icons website](https://react-icons.github.io/react-icons/)
