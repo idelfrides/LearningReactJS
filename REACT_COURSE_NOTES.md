@@ -6,9 +6,8 @@
 **Finished Date:** 2023-08-26
 
 ### About
-- description: This project is the result of my last Hard Skill conquested - ReactJS Library for front-end Development. 
+This project is the conceptual parte of React Course, ReactJS is Library for front-end Development. 
 I dedicated my life during one month and six days learninhg and praticing React JS and I hundestand this is only the begining of my journey to solidify that hard skill .
-
 
 
 ## CLASS 1 - INTRODUCTION TO REACT
