@@ -103,7 +103,7 @@ This project also has been used by me to  `learn` and  `train` ReactJS.
 
 
 ## IMPORTANT LINKS
----
+
 - [Fix import Switch error](https://kinsta.com/knowledgebase/attempted-import-error-switch-is-not-exported-from-react-router-dom/)
 
 - [Install Node.js on Windows Subsystem for Linux (WSL2)](https://learn.microsoft.com/en-us/windows/dev-environment/javascript/nodejs-on-wsl)
