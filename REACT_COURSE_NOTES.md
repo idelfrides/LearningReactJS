@@ -43,7 +43,7 @@ This project also has been used by me to  `learn` and  `train` ReactJS.
 **COMMAND:** `npx create-react-app` [APP_NAME]
     
 ##### 3 - AFTER APP HAS SUCCESSFULY CREATED
-  Unce React App has been successfuly creted, folow the `Steps` in file 
+  Unce React App has been successfuly created, folow the `Steps` in file 
   [README.md](https://github.com/idelfrides/LearningReactJS/blob/main/README.md)
   
 
