@@ -16,12 +16,12 @@ This project also has been used by me to  `learn` and  `train` ReactJS.
 
 
 ## `CLASS 1` - INTRODUCTION TO REACT
----
+
   Overview of the project wil be created in the course
 
 
 ## `CLASS 2` - INSTALL REACT
----
+
   Content coming soon
 
 #### STEPS TO CREATE A REACTJS APP
@@ -42,61 +42,61 @@ This project also has been used by me to  `learn` and  `train` ReactJS.
   
 
 ## `CLASS 3` - UNDERSTANDING JSX FILES  
----
+
   Content coming soon
 
 ## `CLASS 4` - UNDERSTANDING JSX FILES  
----
+
   Content coming soon
 
 ## `CLASS 5` - UNDERSTANDING JSX FILES  
----
+
   Content coming soon
 
 ## `CLASS 6` - UNDERSTANDING JSX FILES  
----
+
   Content coming soon
 
 ## `CLASS 7` - UNDERSTANDING JSX FILES  
----
+
   Content coming soon
 
 ## `CLASS 8` - UNDERSTANDING JSX FILES  
----
+
   Content coming soon
 
 ## `CLASS 9` - UNDERSTANDING JSX FILES  
----
+
   Content coming soon
 
 ## `CLASS 10` - UNDERSTANDING JSX FILES  
----
+
   Content coming soon
 
 ## `CLASS 11` - UNDERSTANDING JSX FILES  
----
+
   Content coming soon
 
 ## `CLASS 12` - UNDERSTANDING JSX FILES  
----
+
   Content coming soon
 
 ## `CLASS 13` - UNDERSTANDING JSX FILES  
----
+
   Content coming soon
 
 
 ## `CLASS 14` - UNDERSTANDING JSX FILES  
----
+
   Content coming soon
 
 
 ## `CLASS 15` - UNDERSTANDING JSX FILES  
----
+
   Content coming soon
 
 ## `CLASS 16` - REACT ICONS
----
+
   Content coming soon
 
 [Access React Icons website](https://react-icons.github.io/react-icons/)
