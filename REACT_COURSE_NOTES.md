@@ -34,11 +34,11 @@ This project also has been used by me to  `learn` and  `train` ReactJS.
 
 ##### 1 - INSTALL `npm` and `react`
 
-[React Dev](https://react.dev/)
+Access -> [React Dev](https://react.dev/)
 
-##### 2 - CREATE AN REACT APP USING `create-react-app` tool
+##### 2 - CREATE A REACT APP USING `create-react-app` tool
 
-[Create React App](https://create-react-app.dev)
+Access -> [Create React App](https://create-react-app.dev)
 
 **COMMAND:** `npx create-react-app` [APP_NAME]
     
@@ -105,11 +105,12 @@ This project also has been used by me to  `learn` and  `train` ReactJS.
 
   Content coming soon
 
-[Access React Icons website](https://react-icons.github.io/react-icons/)
+  Access -> [Access React Icons website](https://react-icons.github.io/react-icons/)
 
 
 ## IMPORTANT LINKS
-
+  Access links bellow
+  
 - [Fix import Switch error](https://kinsta.com/knowledgebase/attempted-import-error-switch-is-not-exported-from-react-router-dom/)
 
 - [Install Node.js on Windows Subsystem for Linux (WSL2)](https://learn.microsoft.com/en-us/windows/dev-environment/javascript/nodejs-on-wsl)
