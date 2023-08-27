@@ -11,10 +11,13 @@ I dedicated my life during one month and six days learninhg and praticing React 
 
 
 ## `CLASS 1` - INTRODUCTION TO REACT
+---
   Overview of the project wil be created in the course
 
 
 ## `CLASS 2` - INSTALLING REACT
+---
+  Content coming soon
 
 ### STEPS TO CREATE A REACTJS APP
 
@@ -29,7 +32,7 @@ I dedicated my life during one month and six days learninhg and praticing React 
 ***COMMAND:** `npx create-react-app` [APP_NAME]
     
 ### 3 - AFTER APP HAS SUCCESSFULY CREATED
------------------------------------------
+
 #### npm start
     Starts the development server.
 
@@ -50,23 +53,20 @@ We suggest that you begin by typing:
 
 **Happy hacking!**
 
-
--------------------------------------------------------------
-
 ## `CLASS 3` - UNDERSTANDING JSX FILES  
 ---
+  Content coming soon
 
 ### 5 - INSTALL npm and react
 
 ## IMPORTANT LINKS
 ---
-
 - [Fix import Switch error](https://kinsta.com/knowledgebase/attempted-import-error-switch-is-not-exported-from-react-router-dom/)
 
 - [Install Node.js on Windows Subsystem for Linux (WSL2)](https://learn.microsoft.com/en-us/windows/dev-environment/javascript/nodejs-on-wsl)
 
-
 ## `CLASS 16` - REACT ICONS
 ---
+  Content coming soon
 
 [Access React Icons website](https://react-icons.github.io/react-icons/)
