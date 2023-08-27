@@ -1,3 +1,7 @@
 {
-  "urlPhoto": "https://via.placeholder.com/150"
+  "name": "Barack Obama",
+  "urlPhoto": "https://via.placeholder.com/150",
+  "bestJSFramework": "https://www.lambdatest.com/blog/best-javascript-frameworks/",
+  "w3scSite": "https://www.w3schools.com/react/default.asp",
+  "class_1":"Overview of project-Technical Requirements-Notion and Concepts aout React-React is library for web interface creation-It is used to build SPAs (Single Page Application)-Component Based-Use JSX to render HTML-Apply virtual DOM to make/execute changes from DOM-We can add it to a project or create one with React."
 }
