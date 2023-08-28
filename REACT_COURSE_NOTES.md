@@ -33,22 +33,26 @@ This project also has been used by me to  `learn` and  `train` ReactJS.
 
 #### STEPS TO CREATE A REACTJS APP
 
-##### 1 - INSTALL `npm` and `react`
+##### STEP 1 - INSTALL `npm` and `react`
 Access -> [React Dev](https://react.dev/)
 
-##### 2 - CREATE A REACT APP USING `create-react-app` tool
+##### STEP 2 - CREATE A REACT APP USING `create-react-app` tool
 Access -> [Create React App](https://create-react-app.dev)
 
 **RUN COMMAND:**  `npx create-react-app` [YOUR_APP_NAME]
     
-##### 3 - AFTER APP HAS SUCCESSFULY CREATED
+##### STEP 3 - AFTER APP HAS SUCCESSFULY CREATED
   Unce React App has been successfuly created, folow the `Steps` in file 
   [README.md](https://github.com/idelfrides/LearningReactJS/blob/main/README.md)
   
 
 ## `CLASS 3` - UNDERSTANDING JSX FILES  
 
-  Content coming soon
+  - `JSX` is similar to HTML, but it wrote inside a javascript code
+  - Is mean way to write HTML with RactJS
+  - We can interpolate variables by putting them inside { }
+  - It possible to execute functions in JSX-Inser variables in `tags atributtes` is algo possible
+
 
 ## `CLASS 4` - UNDERSTANDING JSX FILES  
 

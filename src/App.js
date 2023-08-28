@@ -24,8 +24,8 @@ import DevList from './components/DevList';
 import Links from './components/Links';
 import Conditional from './components/Conditional';
 import Events from './components/Events';
-import { getDevList }  from './DevLibs/libsApp';
-import data from '../data.json';
+// import { getDevList }  from './DevLibs/libsApp';
+import data from './data.json';
 
 
 
@@ -56,7 +56,7 @@ function App() {
       <Greeting nome={nome} />
 
       <ControleAulas number={13} title="Renderiação de Listas" />
-      <DevList itens={getDevList()} />
+      <DevList itens={data.devList} />
       <DevList itens={[]} />
       
       <Links 
