@@ -69,7 +69,8 @@ Access -> [Create React App](https://create-react-app.dev)
   - `props` are values passed to a Component
   - They may be used dinamicaly
   - The value is passed as argument when calling a Component
-  - That value need to be recovered from inside a parameter, normly `props`.    - `props` are read-only
+  - That value need to be recovered from inside a parameter, normly `props`
+  - `props` are read-only
   
 
 ## `CLASS 6` - UNDERSTANDING JSX FILES  
