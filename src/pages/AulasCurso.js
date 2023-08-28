@@ -46,7 +46,6 @@ function AulasCurso(){
             <ShowClassesContent contentArray={data.class_5.split('-')} />
 
             <ControleAulas number={4} title="Creating components in React" />
-            <HelloWorld />
             <ShowClassesContent contentArray={data.class_4.split('-')} />
 
             <ControleAulas number={3} title="Understanding the JSX" />

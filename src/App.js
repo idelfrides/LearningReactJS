@@ -25,6 +25,8 @@ import Links from './components/Links';
 import Conditional from './components/Conditional';
 import Events from './components/Events';
 import { getDevList }  from './DevLibs/libsApp';
+import data from '../data.json';
+
 
 
 function App() {
@@ -76,7 +78,8 @@ function App() {
       <List />
       <Frase />
       <SayMyName name={data.name} />
-      <SayMyName name='AiDjey Jr' />
+      <SayMyName name='IJ ( Lê-se AiDjei )' />
+      <SayMyName name='IJ WM Jr ( Lê-se AiDjei)' />
       
       <Person 
         name={data.name} age='61' 
