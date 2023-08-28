@@ -2,14 +2,19 @@
     display: flex;
     list-style: none;
     padding: 30px;
-    background-color: blue;
+    background-color:#000;
 }
 
 .item {
-    color: #ffbb33;
+    color: #fff;
     /* background-color: white; */
     margin-right: 1em;
-    font-size: larger;
+    font-size: 0.6em;
     text-decoration: none;
     transition: 0.5s;
+}
+
+.item:hover {
+    color: #ffbb33;
+    font-weight: bold;
 }
