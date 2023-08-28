@@ -27,20 +27,19 @@ This project also has been used by me to  `learn` and  `train` ReactJS.
   - We can add it to a project or create one with React
 
 ## `CLASS 2` - INSTALL REACT
-
-  Content coming soon
+  - We use `create-react-app (CRA)`  tool to create a react app
+  - CRA is a script execution tool to create a React Application, where that execution is performed through `nodejs`  and  `npm`
+  - `npm start` initialize a react app in dev
 
 #### STEPS TO CREATE A REACTJS APP
 
 ##### 1 - INSTALL `npm` and `react`
-
 Access -> [React Dev](https://react.dev/)
 
 ##### 2 - CREATE A REACT APP USING `create-react-app` tool
-
 Access -> [Create React App](https://create-react-app.dev)
 
-**COMMAND:** `npx create-react-app` [APP_NAME]
+**RUN COMMAND:**  `npx create-react-app` [YOUR_APP_NAME]
     
 ##### 3 - AFTER APP HAS SUCCESSFULY CREATED
   Unce React App has been successfuly created, folow the `Steps` in file 
