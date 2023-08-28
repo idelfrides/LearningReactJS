@@ -25,23 +25,24 @@ import Links from './components/Links';
 import Conditional from './components/Conditional';
 import Events from './components/Events';
 // import { getDevList }  from './DevLibs/libsApp';
-import data from './data.json';
-
-
+import data from './data2.json';
+import { makeFetch } from './myLibs';
 
 function App() {
  
   const [nome, setNome] = useState()
 
-  // var target = '_self'
-  var target = '_blank'
-  // var target = '_parent'
-  // var target = '_top'
+  // let target = '_self'
+  let target = '_blank'
+  // let target = '_parent'
+  // let target = '_top'
+  
+  const data_server = makeFetch('coure_classes', 'GET', '');
 
-  console.log("-------------------- DATA ------------------------");
-  console.log(data);
+  console.log("-------------------- data_server ------------------------");
+  console.log(data_server);
   console.log("-------------------- URL PHOTO -------------------");
-  console.log(data.urlPhoto);
+  console.log(data.testData.urlPhoto);
 
   return (
     <Router>
@@ -61,11 +62,11 @@ function App() {
       
       <Links 
         title="20 Best JavaScript Frameworks For 2023" 
-        url={data.bestJSFramework} target={target} 
+        url={data.testData.bestJSFramework} target={target} 
       />
       <Links 
         title="Learn React JS at w3schools" 
-        url={data.w3scSite} target={target} 
+        url={data.testData.w3scSite} target={target} 
       />
 
       <ControleAulas title="Conditional renderization" number={12} />
@@ -77,14 +78,14 @@ function App() {
       <Form />
       <List />
       <Frase />
-      <SayMyName name={data.name} />
+      <SayMyName name={data.testData.name} />
       <SayMyName name='IJ ( Lê-se AiDjei )' />
       <SayMyName name='IJ WM Jr ( Lê-se AiDjei)' />
       
       <Person 
-        name={data.name} age='61' 
+        name={data.testData.name} age='61' 
         profession='44th USA President' 
-        photo={data.urlPhoto}
+        photo={data.testData.urlPhoto}
       />
 
       <ControleAulas title="useState in action" number={10} />   

@@ -1,6 +1,6 @@
 import ControleAulas from "../components/ControleAulas" ;
 import ShowClassesContent from "../components/ShowClassesContent";
-import data from '../data.course_classes.json';
+import data from '../data2.json';
 
 
 function AulasCurso(){
