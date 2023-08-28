@@ -1,5 +1,5 @@
 function makeFetch({ endpoint, method, resourceId }) {
-    const realUrl = '';
+    let realUrl = '';
     const baseURL = 'http://localhost:7000/';
     baseURL = baseURL.concat(endpoint);
     

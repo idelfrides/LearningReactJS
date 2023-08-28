@@ -14,10 +14,10 @@
     "Node.JS", "Next.js", "Express"
   ],
   "course_classes":  {
-    "class_1": "Overview of project-Technical Requirements-Notion and Concepts aout React-React is library for web interface creation-It is used to build SPAs (Single Page Application)-Component Based-Use JSX to render HTML-Apply virtual DOM to make/execute changes from DOM-We can add it to a project or create one with React.",
-    "class_2": "We use 'create-react-app' (CRA) tool to create a react app-CRA is a script execution tool to create a React Application, where that execution is performed through 'nodejs' and 'npm'-'npm start' initialize a react app in dev",
+    "class_1": "Overview of project-Technical Requirements-Notion and Concepts about React-React is a library for web interface creation-It is used to build SPAs (Single Page Application)-Is Component Based-Use JSX to render HTML-Apply virtual DOM to make/execute changes from DOM-We can add it to an existing project or create a new one with React.",
+    "class_2": "We use 'create react app' (CRA) tool to create a react app-CRA is a script execution tool to create a React Application, where that execution is performed through 'nodejs' and 'npm'-'npm start' initialize a React app in dev",
     "class_3": "JSX is similar to HTML, but it wrote inside a javascript code-Is mean way to write HTML with RactJS-We can interpolate variables by putting them inside { }-It possible to execute functions in JSX-Inser variables in  `tags atributtes` is algo possible",
-    "class_4": "Allow to split the Application in part-The Components render JSX such as `APP.js`-Component need a js file with same name. Components can be imported to any part of Application as many time you need-Normaly they stay in folder called  `components`-A Component is a javascript function, it name must be equal to his file name-They can be used in many other components",
-    "class_5": "`props` are values passed to a Component-They may be used dinamicaly-The value is passed as argument when calling a Component-That value need to be recovered from inside a parameter, Normly `props`.-props are read-only"
+    "class_4": "Allow to split the Application in part-The Components render JSX such as APP.js-Component need a js file with same name. Components can be imported to any part of Application as many time you need-Normaly they stay in folder called  `components`-A Component is a javascript function, it name must be equal to his file name-They can be used in many other components",
+    "class_5": "props are values passed to a Component-They may be used dinamicaly-The value is passed as argument when calling a Component-That value need to be recovered from inside a parameter, usually `props`.-props are read only"
   }
 }

@@ -9,6 +9,8 @@ body {
   font-size: 1.3em;
   padding: 300px auto;
   align-items: center;
+  width: 75%;
+  justify-content: center;
 }
 
 code {
@@ -34,12 +36,16 @@ h3 {
 
 p {
   background-color: lightgray;
-  color: blue;
+  /* color: blue; */
   /* padding: 100px auto;*/
 }
 
 a {
-  /* background-color: #fff; */
-  /* color: blue; */
-  font-weight: bolder;
-}
+  color: #fff;
+  text-decoration: none;
+  
+  
+  /*
+  background-color: #fff;
+  font-weight: bolder; */
+} 

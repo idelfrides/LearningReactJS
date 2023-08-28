@@ -3,18 +3,22 @@
     list-style: none;
     padding: 30px;
     background-color:#000;
+    text-decoration: none;
+    color: #fff;
+    width:  100%;
 }
 
 .item {
     color: #fff;
     /* background-color: white; */
     margin-right: 1em;
-    font-size: 0.6em;
+    font-size: 1.5em;
     text-decoration: none;
     transition: 0.5s;
 }
 
 .item:hover {
     color: #ffbb33;
-    font-weight: bold;
+    font-weight: bolder;
+    text-decoration: underline;
 }

@@ -6,9 +6,9 @@ function ShowClassesContent({ contentArray }){
         <>
             {contentArray.length > 0 ? (
                 contentArray.map((item, index) => (
-                    <ol>
-                        <li key={index}>{ item } </li>
-                    </ol>
+                    <ul>
+                        <li key={index}>{ item }</li>
+                    </ul>
                 ))
             ):(
                <p>There is no itens in the list informed</p>
