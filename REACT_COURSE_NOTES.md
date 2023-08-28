@@ -54,7 +54,7 @@ Access -> [Create React App](https://create-react-app.dev)
   - It possible to execute functions in JSX-Inser variables in `tags atributtes` is algo possible
 
 
-## `CLASS 4` - UNDERSTANDING JSX FILES  
+## `CLASS 4` - CREATING COMPONENTS IN REACT  
 
   - Allow to split the Application in part
   - The Components render JSX such as `APP.js`
@@ -64,7 +64,7 @@ Access -> [Create React App](https://create-react-app.dev)
   - A Component is a javascript function, it name must be equal to his file name
   - They can be used in many other components
 
-## `CLASS 5` - UNDERSTANDING JSX FILES  
+## `CLASS 5` - WORKING WITH PROPS  
 
   - `props` are values passed to a Component
   - They may be used dinamicaly
