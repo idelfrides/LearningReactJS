@@ -73,21 +73,38 @@ Access -> [Create React App](https://create-react-app.dev)
   - `props` are read-only
   
 
-## `CLASS 6` - UNDERSTANDING JSX FILES  
+## `CLASS 6` - INSERTING CSS IN REACT  
+  - CSS can be added by global way to React App through 'index.css' file
+  - However, it possible styling at Component level
+  - For that, It used 'CSS modules'
+  - Create a css file with this pattern `[COMPONENT_NAME].module.css` and import  that it with key 'styles' in its own Component
+  - Inside CSS modules files, have to use classes name in `Camel case` or `snake case`
 
-  Content coming soon
 
-## `CLASS 7` - UNDERSTANDING JSX FILES  
+## `CLASS 7` - USING REACT FRAGMENTS  
 
-  Content coming soon
+  - `React fragments` allow to create a Component without a superior element
+  - The purpose is `uncomplicate DOM nodes`
+  - The syntax is `<> ... </>` without tag name
+  - It created in JSX
 
-## `CLASS 8` - UNDERSTANDING JSX FILES  
 
-  Content coming soon
+## `CLASS 8` - GETTING ADVANCED IN PROPOS  
 
-## `CLASS 9` - UNDERSTANDING JSX FILES  
+  - We can `define type for props`, making a kind of validation
+  - We do it in an object called `PropTypes` in Component
+  - It possible to `set a default value`
+  - To do that, use object `defaultProps`
+  
 
-  Content coming soon
+## `CLASS 9` - EVENTS IN REACT 
+
+  - Types: `onClick`, `onChange`, `onSubmit`
+  - React events are the same events of DOM, we have events to respond a click
+  - The event is associated to a tag that will execute it
+  - Generally a `method` is assigned to the event
+  - That `method` have to be `created in Component` 
+  
 
 ## `CLASS 10` - UNDERSTANDING JSX FILES  
 

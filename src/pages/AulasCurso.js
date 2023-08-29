@@ -30,7 +30,7 @@ function AulasCurso(){
             <ShowClassesContent contentArray={data.course_classes.class_10.split('-')} />
                 
             <ControleAulas number={10} title="useState in action" />
-            <ShowClassesContent contentArray={data.course_classes.class_10.split('-')} />
+            <ShowClassesContent contentArray={data.course_classes.class_10.split('-')} /> */}
             
             <ControleAulas number={9} title="Events in React" />
             <ShowClassesContent contentArray={data.course_classes.class_9.split('-')} />
@@ -42,7 +42,7 @@ function AulasCurso(){
             <ShowClassesContent contentArray={data.course_classes.class_7.split('-')} />
 
             <ControleAulas number={6} title="Inserting css in React" />
-            <ShowClassesContent contentArray={data.course_classes.class_6.split('-')} /> */}
+            <ShowClassesContent contentArray={data.course_classes.class_6.split('-')} />
 
             <ControleAulas number={5} title="working with props"  />
             <ShowClassesContent contentArray={data.course_classes.class_5.split('-')} />
