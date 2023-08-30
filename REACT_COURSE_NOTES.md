@@ -108,9 +108,9 @@ Access -> [Create React App](https://create-react-app.dev)
   
   ## `CLASS 10` - useState IN ACTION  
 
-  - `useState` is a React hook
+  - `useState` is a React Hook
   - With it we can `manage tghe state` of a Component in a simple way
-  - This hook `works so well with events`
+  - This Hook `works so well with events`
   - It possible to assign an event to state changing
   
 
@@ -154,4 +154,3 @@ Access -> [Create React App](https://create-react-app.dev)
 - [Fix import Switch error](https://kinsta.com/knowledgebase/attempted-import-error-switch-is-not-exported-from-react-router-dom/)
 
 - [Install Node.js on Windows Subsystem for Linux (WSL2)](https://learn.microsoft.com/en-us/windows/dev-environment/javascript/nodejs-on-wsl)
-
