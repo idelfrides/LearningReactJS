@@ -109,7 +109,7 @@ Access -> [Create React App](https://create-react-app.dev)
   ## `CLASS 10` - useState IN ACTION  
 
   - `useState` is a React Hook
-  - With it we can `manage tghe state` of a Component in a simple way
+  - With it we can `manage the state` of a Component in a simple way
   - This Hook `works so well with events`
   - It possible to assign an event to state changing
   
