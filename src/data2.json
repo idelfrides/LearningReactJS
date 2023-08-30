@@ -22,6 +22,8 @@
     "class_6": "`CSS` can be added by global way to React App through 'index.css' file-However, it possible styling at Component level-For that, It used 'CSS modules'-Create a file with this pattern '[COMPONENT_NAME].module.css' and import that css file as with key 'styles' in its own Component-Inside CSS modules files, use classes name in `Camel case` or `snake case`",
     "class_7": "`React fragments` allow to create a Component without a superior element-The purpose is `uncomplicate DOM nodes`-The syntax is `<> ... </>` without tag name-It created in JSX",
     "class_8": "We can `define type for props`, making a kind of validation-We do it in an object called `PropTypes` in Component-It possible to set a default value-To do that, use object `defaultProps`",
-    "class_9": "Types: `onClick`, `onChange`, `onSubmit`-React events are the same events of DOM, we have events to respond a click-The event is associate to a tag that will execute it-Generally a `method` is assigned to the event-That `method` have to be `created in Component`"
+    "class_9": "Types: `onClick`, `onChange`, `onSubmit`-React events are the same events of DOM, we have events to respond a click-The event is associate to a tag that will execute it-Generally a `method` is assigned to the event-That `method` have to be `created in Component`",
+    "class_10": "`useState` is a React hook-With it we can `manage tghe state` of a Component in a simple way-This hook `works so well with events`-It possible to assign an event to state changing",
+    "class_11": "`Methods` can be passed by props also-In other words, a `Component child can activate a method from his father`-Let's access the method through an event-The syntax is the same as a data props:-Like this -> `props.methodName`"
   }
 }

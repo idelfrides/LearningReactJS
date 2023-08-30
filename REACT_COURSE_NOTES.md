@@ -105,14 +105,23 @@ Access -> [Create React App](https://create-react-app.dev)
   - Generally a `method` is assigned to the event
   - That `method` have to be `created in Component` 
   
+  
+  ## `CLASS 10` - useState IN ACTION  
 
-## `CLASS 10` - UNDERSTANDING JSX FILES  
+  - `useState` is a React hook
+  - With it we can `manage tghe state` of a Component in a simple way
+  - This hook `works so well with events`
+  - It possible to assign an event to state changing
+  
 
-  Content coming soon
+## `CLASS 11` - PASSING EVENTS/METHODS BY PROPS  
 
-## `CLASS 11` - UNDERSTANDING JSX FILES  
+  - `Methods` can be passed by props also
+  - In other words, a `Component child can activate a method from his father`
+  - Let's access the method through an event
+  - The syntax is the same as a data props:
+  - Like this -> `props.methodName`
 
-  Content coming soon
 
 ## `CLASS 12` - UNDERSTANDING JSX FILES  
 

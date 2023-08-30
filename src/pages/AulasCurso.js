@@ -24,13 +24,13 @@ function AulasCurso(){
             <ShowClassesContent contentArray={data.course_classes.class_10.split('-')} />
         
             <ControleAulas number={12} title="Conditional renderization" />
-            <ShowClassesContent contentArray={data.course_classes.class_10.split('-')} />
+            <ShowClassesContent contentArray={data.course_classes.class_10.split('-')} /> */}
 
             <ControleAulas number={11} title="Passing event/methos by props" />
             <ShowClassesContent contentArray={data.course_classes.class_10.split('-')} />
                 
             <ControleAulas number={10} title="useState in action" />
-            <ShowClassesContent contentArray={data.course_classes.class_10.split('-')} /> */}
+            <ShowClassesContent contentArray={data.course_classes.class_10.split('-')} />
             
             <ControleAulas number={9} title="Events in React" />
             <ShowClassesContent contentArray={data.course_classes.class_9.split('-')} />
