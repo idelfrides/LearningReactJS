@@ -51,7 +51,7 @@ Access -> [Create React App](https://create-react-app.dev)
   - `JSX` is similar to HTML, but it wrote inside a javascript code
   - Is mean way to write HTML with RactJS
   - We can interpolate variables by putting them inside { }
-  - It possible to execute functions in JSX-Inser variables in `tags atributtes` is algo possible
+  - It's possible to execute functions in JSX-Inser variables in `tags atributtes` is algo possible
 
 
 ## `CLASS 4` - CREATING COMPONENTS IN REACT  
@@ -93,7 +93,7 @@ Access -> [Create React App](https://create-react-app.dev)
 
   - We can `define type for props`, making a kind of validation
   - We do it in an object called `PropTypes` in Component
-  - It possible to `set a default value`
+  - It's possible to `set a default value`
   - To do that, use object `defaultProps`
   
 
@@ -111,7 +111,7 @@ Access -> [Create React App](https://create-react-app.dev)
   - `useState` is a React Hook
   - With it we can `manage the state` of a Component in a simple way
   - This Hook `works so well with events`
-  - It possible to assign an event to state changing
+  - It's possible to assign an event to state changing
   
 
 ## `CLASS 11` - PASSING EVENTS/METHODS BY PROPS  
@@ -129,7 +129,7 @@ Access -> [Create React App](https://create-react-app.dev)
   - That action is called by `Conditional Renderization`
   - For that we envolve the tags in `{ }`
   - Because { } allow to execute `javascript` code, so you create your condition
-  - It possible to use `state` to create conditions
+  - It is possible to use `state` to create conditions
   - OBS.: Always avoid creating complexo logics in templates JSX
   
 
@@ -138,14 +138,14 @@ Access -> [Create React App](https://create-react-app.dev)
   - For doing a list Renderization, first of all, we need an `array`
   - Then use `map` function to loop the list of itens
   - So, render and show something in screen
-  - It possible to put together `Conditional operations and List Renderization`
+  - It is possible to put together `Conditional operations and List Renderization`
   - To return an JSX template, must use `( )`
   
 
 ## `CLASS 14` - STATE LIFT  
 
   - `State Lift` is a technique used to share the `state`
-  - It normal many components `depends on same state`
+  - It is normal many components `depends on same state`
   - In that case, we centralize the state in the father Component, and `define who uses and who defines ( setState )`
   
 
