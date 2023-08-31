@@ -123,18 +123,31 @@ Access -> [Create React App](https://create-react-app.dev)
   - Like this -> `props.methodName`
 
 
-## `CLASS 12` - UNDERSTANDING JSX FILES  
+## `CLASS 12` - CONDITIONAL RENDERIZATION  
 
-  Content coming soon
+  - We can define showing some element to a condition statement `IF`
+  - That action is called by `Conditional Renderization`
+  - For that we envolve the tags in `{ }`
+  - Because { } allow to execute `javascript` code, so you create your condition
+  - It possible to use `state` to create conditions
+  - OBS.: Always avoid creating complexo logics in templates JSX
+  
 
-## `CLASS 13` - UNDERSTANDING JSX FILES  
+## `CLASS 13` - LIST RENDERIZATION  
 
-  Content coming soon
+  - For doing a list Renderization, first of all, we need an `array`
+  - Then use `map` function to loop the list of itens
+  - So, render and show something in screen
+  - It possible to put together `Conditional operations and List Renderization`
+  - To return an JSX template, must use `( )`
+  
 
+## `CLASS 14` - STATE LIFT  
 
-## `CLASS 14` - UNDERSTANDING JSX FILES  
-
-  Content coming soon
+  - `State Lift` is a technique used to share the `state`
+  - It normal many components `depends on same state`
+  - In that case, we centralize the state in the father Component, and `define who uses and who defines ( setState )`
+  
 
 
 ## `CLASS 15` - UNDERSTANDING JSX FILES  
