@@ -27,6 +27,9 @@
     "class_11": "`Methods` can be passed by props also-In other words, a `Component child can activate a method from his father`-Let's access the method through an event-The syntax is the same as a data props:-Like this -> `props.methodName`",
     "class_12": "We can define showing some element to a condition statement `IF`-That action is called by `Conditional Renderization`-For that we envolve the tags in `{ }`-Because { } allow to execute `javascript code`, so you create your condition-It's  possible to use `state`to create conditions.-OBS.: Always avoid creating complexo logics in templates JSX.",
     "class_13": "For doing a list Renderization, first of all, we need an `array`-Then use `map` function to loop the list of itens-So, render and show something in screen-It's  possible to put together `Conditional operations and List Renderization`-To return an JSX template, must use `( )`",
-    "class_14": "`State Lift` is a technique used to share the `state`-It's  normal many components `depends on same state`-In that case, we centralize the state in the father Component, and `define who uses and who defines ( setState )`"
+    "class_14": "`State Lift` is a technique used to share the `state`-It's  normal many components `depends on same state`-In that case, we centralize the state in the father Component, and `define who uses and who defines ( setState )`",
+    "class_15": "`React Router` is a package to change Application-So, we can access other pages without `page reload`-Only by changing aome app part, which change from a view to other-We need to install this package in the project via `npm install`-And then, make some changes on app strutructure",
+    "class_16": "`React Icons` is an external package of icons-We need to `add it to project through npm install`-It aloow us to add icons to project with a `Components-like syntax`-Moreover , `there are a big quantity of icons available`",
+    "class_16_5": "Overview of the project again"
   }
 }

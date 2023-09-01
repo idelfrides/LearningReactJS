@@ -8,26 +8,26 @@ function AulasCurso(){
         <>
             <h2>Conceptual part of React course</h2>
 
-            {/* <ControleAulas number={16.5} title="Reapresentação o projeto" />
-            <ShowClassesContent contentArray={data.course_classes.class_10.split('-')} />
+            <ControleAulas number={16.5} title="Overview of project again" />
+            <ShowClassesContent contentArray={data.course_classes.class_16_5.split('-')} />
             
             <ControleAulas number={16} title="React Icons" />
-            <ShowClassesContent contentArray={data.course_classes.class_10.split('-')} />
+            <ShowClassesContent contentArray={data.course_classes.class_16.split('-')} />
    
             <ControleAulas number={15} title="Implementing React Router" />
-            <ShowClassesContent contentArray={data.course_classes.class_10.split('-')} /> */}
+            <ShowClassesContent contentArray={data.course_classes.class_15.split('-')} />
 
             <ControleAulas number={14} title="State Lift" />
-            <ShowClassesContent contentArray={data.course_classes.class_10.split('-')} />
+            <ShowClassesContent contentArray={data.course_classes.class_14.split('-')} />
     
             <ControleAulas number={13} title="Lists Renderization" />
-            <ShowClassesContent contentArray={data.course_classes.class_10.split('-')} />
+            <ShowClassesContent contentArray={data.course_classes.class_13.split('-')} />
         
             <ControleAulas number={12} title="Conditional renderization" />
-            <ShowClassesContent contentArray={data.course_classes.class_10.split('-')} />
+            <ShowClassesContent contentArray={data.course_classes.class_12.split('-')} />
 
             <ControleAulas number={11} title="Passing event/methos by props" />
-            <ShowClassesContent contentArray={data.course_classes.class_10.split('-')} />
+            <ShowClassesContent contentArray={data.course_classes.class_11.split('-')} />
                 
             <ControleAulas number={10} title="useState in action" />
             <ShowClassesContent contentArray={data.course_classes.class_10.split('-')} />

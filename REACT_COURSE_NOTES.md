@@ -149,17 +149,29 @@ Access -> [Create React App](https://create-react-app.dev)
   - In that case, we centralize the state in the father Component, and `define who uses and who defines ( setState )`
   
 
+## `CLASS 15` - IMPLEMENTING REACT ROUTER  
 
-## `CLASS 15` - UNDERSTANDING JSX FILES  
-
-  Content coming soon
+  - `React Router` is a package to change Application
+  - So, we can access other pages without `page reload`
+  - Only by changing aome app part, which change from a view to other
+  - We need to install this package in the project via `npm install`
+  - And then, make some changes on app strutructure
+  
 
 ## `CLASS 16` - REACT ICONS
 
-  Content coming soon
-
+  - `React Icons` is an external package of icons
+  - We need to `add it to project through npm install`
+  - It aloow us to add icons to project with a `Components-like syntax`
+  - Moreover, `there are a big quantity of icons available`
+  
   Access -> [Access React Icons website](https://react-icons.github.io/react-icons/)
 
+
+## `CLASS 16.5` - RE-PRESENTATION OF THE PROJECT
+
+  - Overview of the project again
+   
 
 ## IMPORTANT LINKS
   Access links bellow
